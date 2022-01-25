@@ -15,8 +15,8 @@ import json
 import numpy as np
 from typing import Union, Tuple, List, Any, Optional, Sequence, Mapping, Container, Callable
 from PIL import Image
-from skimage.util import img_as_ubyte
-from skimage import transform
+#from skimage.util import img_as_ubyte
+#from skimage import transform
 from image_labelling_tool.labelling_tool import WrappedImageLabels, ImageLabels, LabelClass
 
 
